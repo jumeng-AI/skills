@@ -1,0 +1,4 @@
+interface:
+  display_name: "聚梦连接"
+  short_description: "连接聚梦或 Jumai，查看额度和任务"
+  default_prompt: "连接聚梦 MCP"

@@ -1,0 +1,4 @@
+interface:
+  display_name: "聚梦生图"
+  short_description: "用聚梦或 Jumai 生图、改图、生视频"
+  default_prompt: "用聚梦生成一张图片："

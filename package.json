@@ -1,0 +1,8 @@
+{
+  "name": "jumeng-skills",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test skills/media/scripts/media-files.test.mjs"
+  }
+}
